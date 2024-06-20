@@ -1,9 +1,14 @@
-Olá! Eu sou o Rafael de Felice 🙋‍♂️
+# 👋 Olá, eu sou o Rafael de Felice
 
-🔭 Atualmente trabalho como Quality Assurance
-🌱 Estudando Engenharia de Software
-🙇‍♂️ Uma pessoa de mente aberta disposta a aprender e ajudar
-🖤 Apaixonado por tecnologia, esportes, séries/filmes, livros, viajar e trilhas.
+Bem-vindo ao meu perfil no GitHub! Sou um QA apaixonado por tecnologia, com foco em automação, desenvolvimento web e testes de software.
+
+## 🚀 Sobre mim
+- 🔭 Atualmente trabalho como Quality Assurance
+- 🌱 Estudando Engenharia de Software
+- 👨‍💻 Tenho experiência com Java, Selenium, JUnit e Page Objects.
+- 🙇‍♂️ Uma pessoa de mente aberta disposta a aprender e ajudar
+- 🖤 Apaixonado por tecnologia, esportes, séries/filmes, livros, viajar e trilhas.
+
 
 ## 🛠️ Habilidades
 
